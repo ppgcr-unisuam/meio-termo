@@ -62,7 +62,13 @@ O *Seminário Interno de Meio Termo* do Programa de Pós-Graduação em Ciência
 
 ## **Inscrições**
 
-### *Gratuitas*
+### [`r library(fontawesome); fa("arrow-up-right-from-square", margin_right = "0.1em")`](https://forms.gle/XLMRL3AMuB47N6oB6) *Gratuitas*
+
+<br>
+
+## **Local**
+
+### [`r library(fontawesome); fa("location-dot", margin_right = "0.1em")`](local.html) *Auditório Arapuan Motta*
 
 <br>
 
