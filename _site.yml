@@ -1,0 +1,53 @@
+---
+title: Seminário Interno de Meio Termo | PPGCR-UNISUAM
+date: '`r format(Sys.Date())`'
+author:
+  - name: PPGCR-UNISUAM
+  - email: "cienciasdareabilitacao@souunisuam.com.br"
+repository_url: https://ppgcr-unisuam.github.io/meio-termo/
+creative_commons: CC BY-NC
+output_dir: docs
+include:
+  - footer.html
+search: true
+navbar:
+  left:
+    - text: ""
+      icon: "fa-home"
+      href: [index.html]
+    - text: "Programação"
+      href: [programacao.html]
+    - text: "Palestrantes"
+      href: [palestrantes.html]
+    - text: "Local"
+      href: [local.html]
+  right:
+    - text: "Inscrições"
+      icon: "fa-share-from-square"
+      href: [https://forms.gle/V7Ew5NjBYCWyJg8DA]
+    - text: ""
+      icon: "fa-envelope"
+      href: [mailto:cienciasdareabilitacao@souunisuam.com.br]
+    - text: ""
+
+output:
+  html_document:
+    theme: flatly
+    highlight: textmate
+    include:
+      after_body: [footer.html]
+    css:
+      - style.css
+    toc: true
+    toc_depth: 2
+    toc_float: true
+    edit: null
+    sharing:
+      facebook: yes
+      twitter: yes
+      google: yes
+      all:
+        - facebook
+        - twitter
+        - google
+---
