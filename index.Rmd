@@ -1,5 +1,5 @@
 ---
-title: VII Simpósio Paradesportivo Carioca
+title: Seminário Interno de Meio Termo
 output:
   html_document:
     toc: TRUE
@@ -33,8 +33,8 @@ if(!file.exists(".nojekyll")) {
 <center>
 
 ```{r logo-ies}
-if(file.exists("2023/Logo_Paradesportivo_2023.jpg")) {
-  cat('<img src=\"2023/Logo_Paradesportivo_2023.jpg\" align=\"center\"/>')
+if(file.exists("2023/logo-programa.png")) {
+  cat('<img src=\"2023/logo-programa.png\" align=\"center\"/>')
 }
 ```
 
@@ -44,21 +44,19 @@ if(file.exists("2023/Logo_Paradesportivo_2023.jpg")) {
 
 <hr style="height:2px;border-width:0;color:#2C3E50;background-color:#2C3E50">
 
-<a style="float:right" href="#top"><b>Início `r library(fontawesome); fa("circle-up")`</b></a>
-
-# **O Simpósio**
+# **O Seminário**
 
 <br>
 
-## **Tema**
+## **Objetivo**
 
-### *O esporte e o universo de possibilidades para as pessoas com deficiência*
+O *Seminário Interno de Meio Termo* do Programa de Pós-Graduação em Ciências da Reabilitação do Centro Universitário Augusto Motta ([PPGCR-UNISUAM](https://www.unisuam.edu.br/programa-pos-graduacao-ciencias-da-reabilitacao)) tem como objetivo apresentar e discutir, junto os alunos de graduação e pós-graduação, gestores e setores técnico-administrativos da instituição e pesquisadores de Programas representativos de todos os conceitos da [Área 21 Educação Física](https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/avaliacao/sobre-a-avaliacao/areas-avaliacao/sobre-as-areas-de-avaliacao/colegio-de-ciencias-da-vida/ciencias-da-saude/educacao-fisica), as ações e resultados do seu planejamento estratégico no período 2021-2022.
 
 <br>
 
 ## **Data**
 
-### *20 de setembro de 2023*
+### [`r library(fontawesome); fa("calendar-days", margin_right = "0.1em")`](2023/calendar.ics) *19 de setembro de 2023*
 
 <br>
 
@@ -68,21 +66,29 @@ if(file.exists("2023/Logo_Paradesportivo_2023.jpg")) {
 
 <br>
 
-## **Sobre o evento**
+<hr style="height:2px;border-width:0;color:#2C3E50;background-color:#2C3E50">
 
-O Simpósio Paradesportivo Carioca tem como objetivo apresentar e discutir questões relacionadas à prática de esportes por pessoas com deficiência entre estudantes de graduação e pós-graduação, profissionais e pesquisadores nas diferentes áreas de conhecimento.
+<a style="float:right" href="#top"><b>Início `r library(fontawesome); fa("circle-up")`</b></a>
 
-<br>
+# **Sobre o evento**
 
-O Simpósio Paradesportivo Carioca é um evento realizado pelo Programa de Pós- graduação em Ciências da Reabilitação (PPGCR) da UNISUAM, como uma das ações da linha de pesquisa “Reabilitação no esporte e no esporte adaptado”. O evento conta com o apoio da Academia Paralímpica Brasileira (APB), braço científico do Comitê Paralímpico Brasileiro (CPB).
-
-<br>
-
-Em todas as edições (2015, 2016, 2017, 2019, 2021 e 2022), além das palestras, mesas redondas, mini-cursos e lançamento de livros, os participantes internos e externos tiveram a oportunidade de apresentar trabalhos científicos (incluindo TCCs, dissertações de mestrado e teses de doutorado) em forma de pôster, com premiação dos melhores trabalhos. Ao longo desses anos, o Simpósio Paradesportivo Carioca se tornou um evento de referência na área do Esporte para Pessoas com Deficiência, com a participação de mais de 1000 pessoas.
+O *Seminário Interno de Meio Termo* é um evento realizado pelo Programa de Pós- graduação em Ciências da Reabilitação (PPGCR) da UNISUAM, como uma das ações do seu Planejamento Estratégico 2021-2024.
 
 <br>
 
-A realização do Simpósio Paradesportivo Carioca é uma forma de aumentar a visibilidade do PPGCR/UNISUAM por meio da divulgação das pesquisas, estimulando o ingresso de novos discentes e parcerias interinstitucionais. Além disso, a realização de eventos é um dos critérios da CAPES para a avaliação dos PPG, contribuindo para a melhor avaliação do PPGCR/UNISUAM na área 21.
+Além da UNISUAM, nesta edição haverá apresentações de coordenadores e representantes de Programas de Pós-graduação de São Paulo ([PPGFT-UFSCar](https://www.ppgft.ufscar.br/pt-br), [USP-RP](https://ppgrdf.fmrp.usp.br) e [PPGFT-UNICID](https://www.unicid.edu.br/mestrado-e-doutorado/doutorado-em-fisioterapia)), Ceará ([PPGFisio-UFC](https://ppgfisio.ufc.br/pt/)) e Santa Catarina ([PPGCR-UFSC](https://ppgcr.paginas.ufsc.br/apresentacao-2/)) com conceitos A, 3, 4, 5, 6 e 7 (máxima) na [Avaliação Quadrienal](https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/avaliacao/avaliacao-quadrienal) 2017-2020. Ao final, uma mesa redonda será composta por todos os palestrantes para amplo debate junto à comunidade.
+
+<br>
+
+A [Área 21 Educação Física](https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/avaliacao/sobre-a-avaliacao/areas-avaliacao/sobre-as-areas-de-avaliacao/colegio-de-ciencias-da-vida/ciencias-da-saude/educacao-fisica), a Associação Brasileira de Pós-graduação e Pesquisa em Fisioterapia ([ABRAPG-FT](https://abrapg-ft.org.br)) e o Brazilian Journal of Physical Therapy ([BJPT](https://www.rbf-bjpt.org.br)) também serão representados no evento para ampla disseminação das ações de cada entidade junto à nossa comunidade.
+
+<br>
+
+A realização do Seminário é uma forma de dar visibilidade do PPGCR-UNISUAM por meio da divulgação das suas ações -- produção científica e formação de pessoal --, estimulando as parcerias interinstitucionais e a consolidação do PPGCR-UNISUAM no Sistema Nacional de Pós-graduação.
+
+<br>
+
+O evento conta com o apoio das agências Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do Rio de Janeiro ([FAPERJ](https://www.faperj.br), No. E-26/211.104/2021), Coordenação de Aperfeiçoamento de Pessoal de Nível Superior ([CAPES](https://www.gov.br/capes/pt-br), Código Financeiro 001; No. 88881.708719/2022-01, No. 88887.708718/2022-00).
 
 <br>
 
@@ -92,62 +98,37 @@ A realização do Simpósio Paradesportivo Carioca é uma forma de aumentar a vi
 
 #  **Comissão Organizadora**
 
-- Profa. Dra. Patrícia dos Santos Vigário (UNISUAM)
-- Profa. Karina Reis (UNISUAM)
-- Prof. Carlos Alberto Cordella (UNISUAM)
-- Profa. Luciana Luna (UNISUAM)
-- Profa. MSc. Júlia Lemos (UNISUAM)
-- Profa. MSc. Larissa Barranco (UNISUAM)
+- Prof. Dr. Arthur de Sá Ferreira
+- Profa. Dra. Patrícia dos Santos Vigário
+- Prof. Dr. Thiago Lemos
+- Profa. MSc. Júlia Lemos
 
 <br>
 
-<hr style="height:2px;border-width:0;color:#2C3E50;background-color:#2C3E50">
+## GT: Programa
 
-<a style="float:right" href="#top"><b>Início `r library(fontawesome); fa("circle-up")`</b></a>
-
-# **Comissão Científica**
-
-- Prof. Dr. Agnaldo José Lopes (UNISUAM)
-- Profa. Dra. Angela Nogueira Neves (EsEFEx)
-- Prof. Dr. Arthur de Sá Ferreira (UNISUAM)
-- Prof. Dr. Estevão Monteiro (UNISUAM)
-- Prof. Dr. Fábio Vieira dos Anjos (UNISUAM)
-- Prof. Ms. Hugo Vinícius (Univassouras)
-- Prof. Dr. Igor Ramathur Telles de Jesus (UNISUAM)
-- Prof. Dr. Jeter de Freitas (UNISUAM)
-- Profa. Ms. Júlia Lemos (UNISUAM)
-- Profa. Ms. Juliana Valentim Bittencourt (UNISUAM)
-- Profa. Dra. Laura Alice Santos Oliveira (UNISUAM)
-- Prof. Dr. Leandro Alberto Calazans Nogueira (UNISUAM)
-- Profa. Dra. Luciana Crepaldi Lunkes (UNISUAM)
-- Prof. Dr. Luis Felipe da Fonseca Reis (UNISUAM)
-- Profa. Dra. Mariana Simões (UNICAMP)
-- Profa. Dra. Míriam Raquel Meira Mainenti (EsEFEx)
-- Prof. Dr. Ney Armando de Mello Meziat Filho (UNISUAM)
-- Profa. Dra. Patrícia dos Santos Vigário (UNISUAM)
-- Prof. Dr. Rafael Mocarzel (Univassouras)
-- Prof. Dr. Renato Santos de Almeida (UNISUAM)
-- Prof. Dr. Thiago Lemos de Carvalho (UNISUAM)
+- Prof. Dr. Agnaldo José Lopes
+- Prof. Dr. Igor Ramathur Telles de Jesus
+- Profa. Dra. Laura Alice Santos Oliveira
+- Prof. Dr. Renato Santos de Almeida
 
 <br>
 
-<hr style="height:2px;border-width:0;color:#2C3E50;background-color:#2C3E50">
+## GT: Formação
 
-<a style="float:right" href="#top"><b>Início `r library(fontawesome); fa("circle-up")`</b></a>
+- Prof. Dr. Fábio Vieira dos Anjos
+- Prof. Dr. Luis Felipe da Fonseca Reis
+- Prof. Dr. Ney Armando de Mello Meziat Filho
+- Prof. Dr. Thiago Lemos
 
-# **Apoio**
+<br>
 
-<!--FUNDING AGENCIES BADGES-->
-<table class="table" style="background-color:white">
-  <tr>
-    <td width="20%" style='vertical-align: middle; text-align: center;'>
-      <a href="https://cpb.org.br"><img align="center" src="Imagens/logo-cpb.png"></a>
-      </td>
-    <td width="20%" style='vertical-align: middle; text-align: center;'>
-      <a href="https://cpb.org.br/ciencia-e-pesquisa/academia-paralimpica/"><img align="center" src="Imagens/logo-apb.jpg"></a> 
-      </td>
-  </tr>
-</table>
+## GT: Impacto na sociedade
+
+- Prof. Dr. Leandro Alberto Calazans Nogueira
+- Profa. Dra. Luciana Crepaldi Lunkes
+- Profa. Dra. Patrícia dos Santos Vigário
+- Prof. Dr. Estevão Rios Monteiro
 
 <br>
 

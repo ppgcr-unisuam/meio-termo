@@ -21,10 +21,10 @@ navbar:
       href: [palestrantes.html]
     - text: "Local"
       href: [local.html]
-  right:
     - text: "Inscrições"
       icon: "fa-share-from-square"
       href: [https://forms.gle/V7Ew5NjBYCWyJg8DA]
+  right:
     - text: ""
       icon: "fa-envelope"
       href: [mailto:cienciasdareabilitacao@souunisuam.com.br]
@@ -32,7 +32,7 @@ navbar:
 
 output:
   html_document:
-    theme: flatly
+    theme: readable
     highlight: textmate
     include:
       after_body: [footer.html]
