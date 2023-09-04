@@ -94,7 +94,7 @@ A realização do Seminário é uma forma de dar visibilidade do PPGCR-UNISUAM p
 
 <br>
 
-O evento conta com o apoio das agências Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do Rio de Janeiro ([FAPERJ](https://www.faperj.br), No. E-26/211.104/2021), Coordenação de Aperfeiçoamento de Pessoal de Nível Superior ([CAPES](https://www.gov.br/capes/pt-br), Código Financeiro 001; No. 88881.708719/2022-01, No. 88887.708718/2022-00).
+O evento conta com o apoio da UNISUAM e das agências Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do Rio de Janeiro ([FAPERJ](https://www.faperj.br), No. E-26/211.104/2021), Coordenação de Aperfeiçoamento de Pessoal de Nível Superior ([CAPES](https://www.gov.br/capes/pt-br), Código Financeiro 001; No. 88881.708719/2022-01, No. 88887.708718/2022-00).
 
 <br>
 
@@ -117,6 +117,7 @@ O evento conta com o apoio das agências Fundação Carlos Chagas Filho de Ampar
 - Prof. Dr. Agnaldo José Lopes
 - Prof. Dr. Igor Ramathur Telles de Jesus
 - Profa. Dra. Laura Alice Santos Oliveira
+- Prof. MSc. Sidney Fernandes da Silva (egresso)
 
 <br>
 
@@ -136,7 +137,8 @@ O evento conta com o apoio das agências Fundação Carlos Chagas Filho de Ampar
 - Profa. Dra. Patrícia dos Santos Vigário
 - Prof. Dr. Estevão Rios Monteiro
 - Prof. MSc. Larissa Barranco (egressa)
-
+- Ft. Luiza Ferreira Moreira (doutoranda)
+- Ft. Louise Acalantis Pereira Pires Fernandes (mestranda)
 <br>
 
 <a style="float:right" href="#top"><b>Início `r library(fontawesome); fa("circle-up")`</b></a>
