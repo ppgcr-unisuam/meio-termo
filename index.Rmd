@@ -68,7 +68,7 @@ O *Seminário Interno de Meio Termo* do Programa de Pós-Graduação em Ciência
 
 ## **Local**
 
-### [`r library(fontawesome); fa("location-dot", margin_right = "0.1em")`](local.html) *Auditório Arapuan Motta*
+### [`r library(fontawesome); fa("location-dot", margin_right = "0.1em")`](local.html) *Auditório Silvya Bisaggio*
 
 <br>
 
