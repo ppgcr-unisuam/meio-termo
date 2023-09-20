@@ -49,6 +49,9 @@ navbar:
             href: "2023/Apresentações/2023-PPGRDF-USP-RP-Conceito-6.pdf"
           - text: "UFSCar (Conceito 7)"
             href: "2023/Apresentações/2023-PPGFT-UFSCar-Conceito-7.pdf"
+    - text: "Participantes"
+      icon: "fa-people-group"
+      href: "2023/Participantes.pdf"
     - text: "Inscrições"
       icon: "fa-share-from-square"
       href: [https://forms.gle/XLMRL3AMuB47N6oB6]
