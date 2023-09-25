@@ -24,7 +24,7 @@ navbar:
     - text: "Palestrantes"
       icon: "fa-people-group"
       href: [palestrantes.html]
-    - text: "Apresentações"
+    - text: "Palestras"
       icon: "fa-person-chalkboard"
       menu:
           - text: "Área 21 CAPES"
