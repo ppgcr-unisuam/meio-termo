@@ -25,6 +25,12 @@ knitr::opts_chunk$set(
 
 <br>
 
+```{css}
+.item img {
+  width:50%
+}
+```
+
 ```{r galeria-carousel, out.width="50%"}
 library("dplyr")
 
